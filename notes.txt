@@ -1,2 +1,3 @@
 2021. 10. 12.
     -created index.php
+    -changed indedx.php to index.html
